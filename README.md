@@ -11,7 +11,6 @@ Frameworks:
   -React Native;
 Databases:
   -MySQL;
-  -MS SQL Server;
 
 <!---
 CleitonMuianga/CleitonMuianga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
