@@ -1,16 +1,17 @@
 Name:
   Cleiton Fernandes da C. Muianga
 Occupation:
-  Student (Software Engeneer)
+  Junior IT Consultant
 Programming languages:
-  -Java;
-  -C#;
-  -JS;
+  -Java
+  -C#
+  -JS
 Frameworks:
-  -SpringBoot;
-  -React Native;
+  -SpringBoot
+  -React Native
 Databases:
-  -MySQL;
+  -MySQL
+  -MSSQL
 
 <!---
 CleitonMuianga/CleitonMuianga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
