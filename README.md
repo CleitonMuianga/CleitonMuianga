@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Cleiton Muianga</h1>
-<h3 align="center">A full-stack developer, currently working as a Jr. IT Consultant</h3>
+<h3 align="center">A software developer, currently working as a Jr. IT Consultant</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
